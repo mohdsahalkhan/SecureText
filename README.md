@@ -31,3 +31,13 @@ Learn how symmetric key encryption works
 Create educational demonstrations for security concepts
 
 Quickly secure text snippets for sharing or storage
+
+## 🖥️ Requirements
+Before running the tool, make sure you have:
+
+- **Python 3.x**
+- The **cryptography** package (install using pip)
+
+### Install dependencies
+```bash
+pip install -r requirements.txt
