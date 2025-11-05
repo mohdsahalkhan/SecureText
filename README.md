@@ -5,6 +5,8 @@ SecureText is a lightweight, user-friendly Python application that lets you encr
 Built with an elegant Tkinter GUI, SecureText ensures that your sensitive information — passwords, notes, or confidential data — remains safe and accessible only to those with the correct key.
 
 Whether you're a student, developer, or cybersecurity enthusiast, SecureText makes learning and applying encryption simple, visual, and secure.
+
+
 ✨ Key Highlights
 
 🔑 Symmetric encryption using the Fernet algorithm (AES + HMAC)
@@ -18,6 +20,8 @@ Whether you're a student, developer, or cybersecurity enthusiast, SecureText mak
 🪶 Built entirely with Python 3 and Tkinter
 
 🛡️ Great for learning, demos, or personal privacy
+
+
 🧩 Use Cases
 
 Encrypt personal notes or credentials
