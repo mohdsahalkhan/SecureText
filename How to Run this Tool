@@ -1,0 +1,12 @@
+🧭 How to Run
+
+Clone or download this repository.
+
+Open the folder in VS Code or any IDE.
+
+Run the script using:
+
+python text_encryption_tool.py
+
+
+The GUI will launch automatically.
